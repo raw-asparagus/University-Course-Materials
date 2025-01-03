@@ -12,7 +12,7 @@ lifetimes: deep inelastic scattering; and introductory gauge theories and
 unified models. This course is mainly targeted at physics majors.
 
 ### Directory Contents
-- 
+- **archive/**: Archived course materials from AY2320
 
 ### Additional Resources
 - [NUSMods Link](https://nusmods.com/courses/PC4245/particle-physics)
