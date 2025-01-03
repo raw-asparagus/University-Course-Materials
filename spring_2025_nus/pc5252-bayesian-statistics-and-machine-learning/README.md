@@ -12,7 +12,7 @@ networks. The course will be largely theoretically oriented, with the occasional
 computational component.
 
 ### Directory Contents
-- 
+- **archive/**: Archived course materials from AY2220
 
 ### Additional Resources
 - [NUSMods
