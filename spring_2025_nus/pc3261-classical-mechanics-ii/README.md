@@ -12,7 +12,7 @@ transformations, four-dimensional notations; Lagrangian mechanics, the action
 principle, Euler-Lagrange equation; Hamiltonian mechanics.
 
 ### Directory Contents
-- 
+- **archive/**: Archived course materials from AY2320
 
 ### Additional Resources
 - [NUSMods Link](https://nusmods.com/courses/PC3261/classical-mechanics-ii)
